@@ -3,3 +3,5 @@
 ## - 2 Exemplos de uso para Cache
 
 ## - 1 Exemplo de uso para Pub/Sub
+
+- Todos com .Net Core 3
